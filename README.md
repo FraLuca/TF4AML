@@ -16,7 +16,7 @@ The students can organize and submit the work in group of ??-?? people.
 
 Before the deadline you can submit the code at: ???
 
-> :warning: Note: for any day of delay a penalization of ?? on the grade will be applied
+> :warning: Note: for each day of delay a penalization of 2 points on the grade will be applied
 
 
 ## Files structure

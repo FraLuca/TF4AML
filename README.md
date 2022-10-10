@@ -47,14 +47,16 @@ a. Run from `Google Colab`:
 
   1. Open a new [colab notebook](https://colab.research.google.com) (this will be needed only for the setup and then can be removed).
   
-  2. Clone the repo running command in the first cell `!git clone https://github.com/FraLuca/TF4AML.git`
+  2. Clone the repo running command in the first cell:
+  > `!git clone https://github.com/FraLuca/TF4AML.git`
   
-  3. Synchronize with google drive to save all the changes and model checkpoints/outputs (copy those 2 lines in the second cell).
+  3. Synchronize with google drive to save all the changes and model checkpoints/outputs (copy those 2 lines in the second cell):
   > `from google.colab import drive`
   > 
   > `drive.mount('/content/drive', force_remount=True)`
   
-  4. Move folder to main drive folder `!mv /content/TF4AML /content/drive/MyDrive/` (copy this line in the third cell).
+  4. Move folder to main drive folder (copy this line in the third cell):
+  > `!mv /content/TF4AML /content/drive/MyDrive/` 
   
   5. Open [Google Drive](https://drive.google.com/drive/u/0/my-drive). 
   
@@ -68,9 +70,11 @@ a. Run from `Google Colab`:
 
 b. Run from `Local`:
 
-  1. Open terminal and run `git clone https://github.com/FraLuca/TF4AML.git`
+  1. Open terminal and run: 
+  > `git clone https://github.com/FraLuca/TF4AML.git`
   
-  2. Install the environment with `conda env create -f environment.yml`
+  2. Install the environment with 
+  > `conda env create -f environment.yml`
   
   3. Open new terminal and activate new environment with:
   > `conda activate aml`

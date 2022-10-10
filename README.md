@@ -10,7 +10,7 @@ It is also interesting to see the versatility of the Transformer on a practical 
 
 ## Deadline and Submission
 
-The deadline for the homework is at 23:59 of ??/??/??  (GMT+2)
+The deadline for the homework is at 23:59 of 17/11/22  (GMT+2)
 
 The students can organize and submit the work in group of ??-?? people.
 

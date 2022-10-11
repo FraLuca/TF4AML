@@ -12,9 +12,9 @@ It is also interesting to see the versatility of the Transformer on a practical 
 
 The deadline for the homework is at 23:59 of 17/11/22  (GMT+2)
 
-The students can organize and submit the work in group of ??-?? people.
+The students can organize and submit the work in group of 2-4 people.
 
-Before the deadline you can submit the code at: ???
+Before the deadline you can submit the code at: `galasso@di.uniroma1.it`
 
 > :warning: Note: for each day of delay a penalization of 2 points on the grade will be applied
 

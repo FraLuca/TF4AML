@@ -1,4 +1,4 @@
-# This is the official repository for AML 2022/23 class at Sapienza University of Rome
+# This is the official repository for the AML 2022/23 class at Sapienza University of Rome
 
 The notebook provides an introduction to Transformer Network (TF).
 

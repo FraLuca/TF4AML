@@ -18,6 +18,12 @@ Before the deadline you can submit the code at: `galasso@di.uniroma1.it`
 
 > :warning: Note: for each day of delay a penalization of 2 points on the grade will be applied
 
+## Assignment Evaluation
+
+The point assigned for each exercise is specified in the headers. The total for the theory part is 12 points and for the practice 18 + 5 bonus. 
+
+The 5 bonus points will be considered only if you'll achieve at least 25 points out of the other 30 available. 
+
 
 ## Files structure
 
